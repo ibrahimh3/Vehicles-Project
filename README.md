@@ -40,3 +40,6 @@ After this, there needs to be a way of comparing the main values, price and odom
 
 Once all of the data is catogorized and analyzed appropriately, a data set for Porsche specific vehicles can be uploaded so that differeces in between the two data sets can be seen. This is extremely useful, as it shows the differences in between the trends of general cars and Porsche sales.
 
+<img src="https://github.com/ibrahimh3/Vehicles-Project/blob/main/Chart%204.png?raw=true" alt="Image 4" width="400" />
+
+It can be seen in this chart that Porsche sales generally follow the same trend as most cars. The difference is that Porsche sales numbers are higher. This shows that although Porsche sells for higher numbers, the depreciation and appreciation depending on the cars milage is still similar to a normal car.
