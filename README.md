@@ -25,7 +25,7 @@ Outlier removal is a big focus. The first few plots are clearly showing skewed d
  - Many of the incorrect data points are price/odometer readings which are 0, 1, 100, 456789, 999999, etc. 
 
 Once the data sets are cleaned enough to derive data from, different data points can be plotted to visualize the general trends for each category. In the chart below, the density of cars for sale at different price points are plotted. It can be seen that the majority of cars are sold in the $10,000-15,000 range. This can show dealers the price range to target on cars so that they would be easier to buy and sell, and eventually be profitable for their business.
-
+![Image 1](https://github.com/ibrahimh3/Vehicles-Project/blob/main/Chart%201.png?raw=true)
 
 The same process is done with the odometer readings. Once the outliers are removed, the density of cars for sale with different mileage are plotted. It can be seen that cars with either 25,000 or 100,000 are sold a lot more than cars at other mileages. This can also help dealerships determine whether a car would sell for a desired price. Many times mileage is a deciding factor on whether or not someone will buy a vehicle, and this analysis shows that a car with 25,000 or 100,000 miles should be easier to sell than a car with different mileage.
 
