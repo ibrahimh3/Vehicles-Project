@@ -1,6 +1,6 @@
 # Vehicles-Project
 
-This project use data from [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data), and contains data from [Craigslist](https://www.craigslist.org/about/sites). It has used car data from the the United States. It contains data on car sales and includes columns like price, condition, manufacturer, latitude/longitude, and 18 other categories.
+This project uses data from [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data), and contains data from [Craigslist](https://www.craigslist.org/about/sites). It has used car data from the United States. It contains data on car sales and includes columns like price, condition, manufacturer, latitude/longitude, and 18 other categories.
 I used this to learn about [Google Collab](https://colab.research.google.com/) , [pandas](https://pandas.pydata.org/), and [python](https://www.python.org/).
 
 ### This dataset is used to perform the following analysis:
@@ -40,7 +40,7 @@ The same process is done with the odometer readings. Once the outliers are remov
 
 <img src="https://github.com/ibrahimh3/Vehicles-Project/blob/main/Chart%202.png?raw=true" alt="Image 2" width="400" />
 
-Other analysises are also made, such as figuring out which regions in the country have the most or least cars sold. This can help when deciding where to purchase or sell a car in order to make the most profit.
+Other analyses are also made, such as figuring out which regions in the country have the most or least cars sold. This can help when deciding where to purchase or sell a car in order to make the most profit.
 
 After this, there needs to be a way of comparing the main values, price and odometer. If every single data point of price x mileage was plotted, the plot would be a mess of points, messy, unreadable, and quite useless. In order to properly plot these values, first the price points must be grouped into ranges. After each price range is set, all the odometer values within the range must be added so that the value can be averaged. After the odometer readings are averaged, there is only one point per price range, and the plot can be created in a neat and understandable manner. 
 As expected, it can be seen from the newly created graph that the higher mileage the car, the lower of a price it will sell for. The graph continues its linear decline as expected up until about $40,000, showing that as a car drives more and increases its mileage, the sale price continues to decline. However, it can be seen that there is a slight spike around $40,000- 50,000. This shows that cars priced around that point, still sell even though the mileage may be higher. 
@@ -50,8 +50,8 @@ As expected, it can be seen from the newly created graph that the higher mileage
 
 ### Porsche
 
-Once all of the data is catogorized and analyzed appropriately, a data set for Porsche specific vehicles can be uploaded so that differeces in between the two data sets can be seen. This is extremely useful, as it shows the differences in between the trends of general cars and Porsche sales.
+Once all of the data is categorized and analyzed appropriately, a data set for Porsche specific vehicles can be uploaded so that differences in between the two data sets can be seen. This is extremely useful, as it shows the differences in between the trends of general cars and Porsche sales.
 
 <img src="https://github.com/ibrahimh3/Vehicles-Project/blob/main/Chart%204.png?raw=true" alt="Image 4" width="400" />
 
-It can be seen in this chart that Porsche sales generally follow the same trend as most cars. The difference is that Porsche sales numbers are higher. This shows that although Porsche sells for higher numbers, the depreciation and appreciation depending on the cars milage is still similar to a normal car. This can help dealers appropriately price their vehicles by possibly recognizing the average values of other vehicles with similar mileage. It also goes to show that the higher Porsche sales prices dont dissapear as the vehicle is driven and the odometer is increased. 
+It can be seen in this chart that Porsche sales generally follow the same trend as most cars. The difference is that Porsche sales numbers are higher. This shows that although Porsche sells for higher numbers, the depreciation and appreciation depending on the cars milage is still similar to a normal car. This can help dealers appropriately price their vehicles by possibly recognizing the average values of other vehicles with similar mileage. It also goes to show that the higher Porsche sales prices don't disappear as the vehicle is driven and the odometer is increased. 
