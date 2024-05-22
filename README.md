@@ -50,7 +50,7 @@ As expected, it can be seen from the newly created graph that the higher mileage
 
 ### Porsche
 
-Once all of the data is categorized and analyzed appropriately, a data set for Porsche specific vehicles can be uploaded so that differences in between the two data sets can be seen. This is extremely useful, as it shows the differences in between the trends of general cars and Porsche sales.
+Once all of the data is categorized and analyzed appropriately, a data set for Porsche specific vehicles can be uploaded so that differences in between the two data sets can be seen. This is extremely useful, as it shows the differences in between the trends of general cars & Porsche sales.
 
 <img src="https://github.com/ibrahimh3/Vehicles-Project/blob/main/Chart%204.png?raw=true" alt="Image 4" width="400" />
 
